@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>632244489079-scmlm8r0b3osuki3mc8b5vv74eiv2opg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.632244489079-scmlm8r0b3osuki3mc8b5vv74eiv2opg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>632244489079-sbuiaq8s2n0o293tc8iskbdue3hp4q18.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5jnwyUC8ZE6TXq2KYIR_1DgfvVjxps6o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>632244489079</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ssa.bestchat</string>
+	<key>PROJECT_ID</key>
+	<string>povozka-2bd8d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>povozka-2bd8d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:632244489079:ios:95542d9b5fb00227</string>
+	<key>DATABASE_URL</key>
+	<string>https://povozka-2bd8d.firebaseio.com</string>
+</dict>
+</plist>
